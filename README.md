@@ -9,8 +9,8 @@ Aims to implement disjoint set in multiple languages.
 - [x] Test **connectivity** of two nodes
 - [x] Return **number** of disjoint sets
 - [x] Create disjoint sets in **construction**
-- [ ] Dynamically **add **elements
-- [ ] Dynamically **delete **elements
+- [ ] Dynamically **add** elements
+- [ ] Dynamically **delete** elements
 - [ ] Increase the **generalizability** of the implementations.
 
 # Tips
