@@ -24,6 +24,6 @@ You can use the following steps to t**urn the actual problem into a disjoint set
 5. *Further specific work*
 
 # Miscellaneous  
-1. Current implementation uses a one-dimensional array, and the constructor needs to pass in the size of this array(`n`). $n$ nodes are represented by `1,2,···,n-1`, which means that **every element must have a numerical number**.
+1. Current implementation uses a one-dimensional array, and the constructor needs to pass in the size of this array(`n`). `n` nodes are represented by `1,2,···,n-1`, which means that **every element must have a numerical number**.
 2. Current implementation **doesn't support dynamic adding or deleting**.
 
