@@ -1,5 +1,7 @@
 # Disjoint-Set
 Aims to implement disjoint set in multiple languages.
+
+*All the member functions are implemented inside the class to be used in online judge platform such as [LeetCode](https://leetcode-cn.com/)*.
 # Language Support
 - [x] Java
 - [x] cpp
