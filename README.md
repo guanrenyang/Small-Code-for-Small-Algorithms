@@ -1,10 +1,16 @@
-# Disjoint-Set
-Aims to implement disjoint set in multiple languages.
+# Small Code for Small Algorithms
 
+实现了刷题过程中的遇到的一些常见算法。
+
+*如果使用了类`class`，则将所有的成员函数的实现写在类内，使其复制到[LeetCode](https://leetcode-cn.com/)上更为方便。*
 *All the member functions are implemented inside the class to be used in online judge platform such as [LeetCode](https://leetcode-cn.com/)*.
+# Algorithms
+- [x] 并查集(Disjoint Set)
+- [x] 多种二分查找(Binary Search)
+- [ ]  
 # Language Support
+- [x] cpp (所有算法都至少使用C++实现)
 - [x] Java
-- [x] cpp
 - [ ] ...
 # TODO
 - [x] **Union** two elements
