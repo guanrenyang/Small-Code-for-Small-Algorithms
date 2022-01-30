@@ -7,7 +7,6 @@
 # Algorithms
 - [x] 并查集(Disjoint Set)
 - [x] 多种二分查找(Binary Search)
-- [ ]  
 # Language Support
 - [x] cpp (所有算法都至少使用C++实现)
 - [x] Java
